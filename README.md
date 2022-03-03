@@ -1,2 +1,4 @@
-# hello-world
- primeiro repósitorio versionado 
+# hello world
+ Primeiro repósitorio versionado 
+
+ Um pequeno passo para o git um grande médio passo para mim!
